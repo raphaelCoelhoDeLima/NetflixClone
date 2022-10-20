@@ -15,6 +15,6 @@ export default () => {
   },[])
 
   return (
-    <div>Ola Mundo!</div>
+    <div>Teste</div>
   );
 }
