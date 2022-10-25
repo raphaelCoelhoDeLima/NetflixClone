@@ -58,7 +58,10 @@ export default () => {
       <MovieRow key={key} title={item.title} items={item.items}/>
       ))}
      </section>
-
+          <footer>By Raphael Lima on BW7Web
+            Copyright Netflix
+            Movie List themoviedb.org
+          </footer>
     </div>
   );
 }
